@@ -4,3 +4,5 @@ Probando las funciones principales de Git accediendo a GitHub desde Google Colab
 HOLA
 
 Añadida línea desde la rama 'rama_1' en README.md
+HOLA
+Chau
